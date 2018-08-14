@@ -1,5 +1,6 @@
 # Documenting the Machine Learning Process
 
+Supports models following the Sklearn or Keras structure.
 
 
 ## Example Usage
