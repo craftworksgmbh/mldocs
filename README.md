@@ -26,7 +26,11 @@ doc.document()
 
 ```
 
-## Output (JSON)
+## Output
+
+ - Saves train and test data to specified directory as snapshot of training.
+ - Saves trained model.
+ - Saves settings/parameters/... to json (see below).
 
 ```
 {
